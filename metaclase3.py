@@ -4,7 +4,7 @@ Animal = type('Animal', (), {'nombre':'Animal a definir'})
 Vegetal = type('Vegental', (), {'nombrev':'Vegetal a definir'})
 
 def dice(self):
-    print('Guauuuuuu')
+    print('Guauuuuuu!')
 
 
 Perro = type('Perro', (Animal, ),dict(cantidad_patas=4, dice=dice))
