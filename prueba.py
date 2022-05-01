@@ -1,5 +1,5 @@
 class Animal():
-    nombre = 'a definir'
+    nombre = 'Soy un animal'
     pass
 
 class Gato(Animal):
@@ -8,10 +8,15 @@ class Gato(Animal):
 
 
 # Invocaciones
+# Creación de instancias
 a = Animal()
 g = Gato()
+
+# Impresiones
 print(a.nombre)
 print(g.cantidad_patas)
+
+# Referencias
 x = object()
 print(type(x))
 
