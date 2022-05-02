@@ -2,6 +2,7 @@ class Animal():
     nombre = 'Soy un animal'
     pass
 
+
 class Gato(Animal):
     cantidad_patas = 4
     pass
@@ -19,5 +20,10 @@ print(g.cantidad_patas)
 # Referencias
 x = object()
 print(type(x))
+
+# Determina si x es una instancia de object
+print(isinstance(x ,object))
+
+
 
 

@@ -10,12 +10,14 @@ def dice(self):
 Perro = type('Perro', (Animal, ),dict(cantidad_patas=4, dice=dice))
 Hatana = type('Hatana', (Animal, Vegetal, ), dict())
 
+# Operaciones con clase Perro
 print('Perro')
 p = Perro()
 print(p.nombre)          # Imprime a definir
 print(p.cantidad_patas)  # Imprime 4
 p.dice()                 # Imprime Guauuuuuu
 
+# Operaciones con clase Hatana
 print('Hatana')
 h = Hatana()
 print(h.nombre)
