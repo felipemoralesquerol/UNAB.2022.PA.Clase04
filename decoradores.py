@@ -1,5 +1,4 @@
 def my_primer_decorador(function):
-
 	def funcion_de_retorno():
 		print('Cargando...')
 		function()
