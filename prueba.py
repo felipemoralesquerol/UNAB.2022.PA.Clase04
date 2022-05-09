@@ -1,8 +1,9 @@
+# Superclase general
 class Animal():
     nombre = 'Soy un animal'
     pass
 
-
+# Subclase particular
 class Gato(Animal):
     cantidad_patas = 4
     pass
