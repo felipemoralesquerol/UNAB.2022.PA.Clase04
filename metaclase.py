@@ -1,3 +1,4 @@
+# Definición de clases
 class Animal():
     nombre = 'a definir'
     pass
@@ -8,7 +9,7 @@ class Gato(Animal):
 
 
 
-# Invocaciones
+# Instanciaciones
 a = Animal()
 g = Gato()
 
