@@ -4,9 +4,9 @@
 
 ## Temas cubiertos:
 
-### Metaclass
-### Decorators
-### Herencia múltiple
+### Metaclass.
+### Decorators.
+### Herencia múltiple.
 
-## Ejercicios complementarios
+## Ejercicios complementarios.
 
