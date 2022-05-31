@@ -6,7 +6,7 @@
 
 ### Metaclass.
 ### Decorators.
-### Herencia múltiple.
+### Herencia múltiple y simple.
 
 ## Ejercicios complementarios.
 
